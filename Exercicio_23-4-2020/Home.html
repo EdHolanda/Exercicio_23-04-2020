@@ -1,0 +1,52 @@
+<head>
+  <meta charset="UTF-8">
+</head>
+<script src="file:///C:/Users/edils/Desktop/Sublime%20Text%20Build%203211%20x64/Exercícios/Torne-se%20um%20programador/Exercicio_23-4-2020/cadastro_funcionarios.js"></script>
+
+<script src="file:///C:/Users/edils/Desktop/Sublime%20Text%20Build%203211%20x64/Exercícios/Torne-se%20um%20programador/Exercicio_23-4-2020/relatorios.js"></script>
+
+<div id="resultado"></div>
+
+<script>
+
+let bdFuncionarios = [];
+
+let usuario = prompt("Digite seu nome:")
+
+digiteOpcao = (opcao) =>{
+	opcao = parseInt(prompt("Olá, " + usuario + ". O que deseja fazer?\n0 - Cadastrar Funcionário\n1 - Listar Funcionários\n2 - Relatório Funcionários e Salários\n3 - Relatório Funcionários, Vale e Salário Líquido\n4 - Valor da Folha Mensal\n5 - Sair"))
+	if(opcao == 5){
+		return(alert("Até logo!"))
+	}
+	else if(opcao == 0){
+		cadastroFuncionario();
+	}
+	else if(opcao == 1){
+		listaFunc1();
+		return(alert("Segue o Relatório"))
+	}
+	else if(opcao == 2){
+		listaFunc2();
+		return(alert("Segue o Relatório"))
+	}
+	else if(opcao == 3){
+		listaFunc3();
+		return(alert("Segue o Relatório"))
+	}
+	else if(opcao == 4){
+		folhaMes();
+		return(alert("Segue o Relatório"))
+	}
+	else if(opcao > 5){
+		alert("Opção inválida");
+	}
+	digiteOpcao()
+
+}
+digiteOpcao()
+
+</script>
+
+<body>
+      <a href="javascript:digiteOpcao()">Menu</a>  
+</body>
