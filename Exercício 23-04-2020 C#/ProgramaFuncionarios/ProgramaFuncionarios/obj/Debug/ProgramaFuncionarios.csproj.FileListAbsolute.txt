@@ -1,0 +1,7 @@
+C:\Users\edils\Desktop\Estudo\C#\ProgramaFuncionarios\ProgramaFuncionarios\bin\Debug\ProgramaFuncionarios.exe.config
+C:\Users\edils\Desktop\Estudo\C#\ProgramaFuncionarios\ProgramaFuncionarios\bin\Debug\ProgramaFuncionarios.exe
+C:\Users\edils\Desktop\Estudo\C#\ProgramaFuncionarios\ProgramaFuncionarios\bin\Debug\ProgramaFuncionarios.pdb
+C:\Users\edils\Desktop\Estudo\C#\ProgramaFuncionarios\ProgramaFuncionarios\obj\Debug\ProgramaFuncionarios.csprojAssemblyReference.cache
+C:\Users\edils\Desktop\Estudo\C#\ProgramaFuncionarios\ProgramaFuncionarios\obj\Debug\ProgramaFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\edils\Desktop\Estudo\C#\ProgramaFuncionarios\ProgramaFuncionarios\obj\Debug\ProgramaFuncionarios.exe
+C:\Users\edils\Desktop\Estudo\C#\ProgramaFuncionarios\ProgramaFuncionarios\obj\Debug\ProgramaFuncionarios.pdb
